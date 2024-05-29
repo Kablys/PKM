@@ -1,0 +1,24 @@
+Less known HTML tags
+- `<abbr>` - abbreviation 
+- 
+- `<blockquote>`
+- `<caption>`
+- `<cite>`
+- `<code>`, `<samp>`
+- `<details>`, `<summary>`
+- `<dfn>` - definition 
+- `<dl>`, `<dt>`, `<dd>` - descriptions
+- `<header>`, `<footer>`, `<main>`, `<nav>`, `<aside>`, `<section>`, `<article>`
+- `<hgroup>` - heading group
+- `<hr>` - thematic break
+- `<ins>`, `<del>`
+- `<kbd>` - keyboard input
+- `<mark>`
+- `<meter>`, `<progress>`
+- `<portal>`
+- `<pre>`
+- `<q>`
+- `<ruby>`, `<rt>`, `<rp>`
+- `<s>`
+- `<sub>`, `<sup>`
+- `<var>`
